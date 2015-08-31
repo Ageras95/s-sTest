@@ -12,8 +12,12 @@ public class project1 {
 	        System.out.print("Enter Integer:");
 	        try
 	        {
+	        	int test = 0;
+	        	int test2 = 150;
 	            int number = Integer.parseInt(reader.readLine());
 	            System.out.println("You entered the number: " + number);
+	            System.out.println("You entered: " + number);
+	            System.out.println("Test getal is:  " + test);
 	        }
 	        catch(NumberFormatException error)
 	        {
