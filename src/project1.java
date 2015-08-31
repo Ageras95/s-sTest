@@ -15,6 +15,7 @@ public class project1 {
 	        	int test = 0;
 	            int number = Integer.parseInt(reader.readLine());
 	            System.out.println("You entered: " + number);
+	            System.out.println("Test number is:  " + test);
 	        }
 	        catch(NumberFormatException error)
 	        {
