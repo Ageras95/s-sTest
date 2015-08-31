@@ -13,7 +13,7 @@ public class project1 {
 	        try
 	        {
 	            int number = Integer.parseInt(reader.readLine());
-	            System.out.println("You entered: " + number);
+	            System.out.println("You entered the number: " + number);
 	        }
 	        catch(NumberFormatException error)
 	        {
