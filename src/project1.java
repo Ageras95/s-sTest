@@ -12,6 +12,7 @@ public class project1 {
 	        System.out.print("Enter Integer:");
 	        try
 	        {
+	        	int test = 0;
 	            int number = Integer.parseInt(reader.readLine());
 	            System.out.println("You entered: " + number);
 	        }
