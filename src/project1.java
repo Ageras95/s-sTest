@@ -15,7 +15,7 @@ public class project1 {
 	        	int test = 0;
 	        	int test2 = 150;
 	            int number = Integer.parseInt(reader.readLine());
-	            System.out.println("You entered the number: " + number);
+	            System.out.println("You entered the nnnnnnnnnumber: " + number);
 	            System.out.println("You entered: " + number);
 	            System.out.println("Test getal is:  " + test);
 	        }
